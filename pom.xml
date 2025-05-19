@@ -1235,13 +1235,13 @@ Bundle-DocURL:
                         
         <artifactId>uber-jar</artifactId>
                         
-        <version>6.5.14</version>
+        <version>6.5.13</version>
                         
         <scope>provided</scope>
                     
       </dependency>
                   
-      <!-- Apache Sling Dependencies -->
+      <!-- Apache Sling Dependencie -->
                   
       <dependency>
                         
